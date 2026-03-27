@@ -56,10 +56,10 @@ Write the program
 ```
 # Calculation:
 
-![WhatsApp Image 2026-02-09 at 6 28 30 PM (1)](https://github.com/user-attachments/assets/77812068-8ee4-4df6-ad3d-63d63d6f5581)
+![calc 1 dc](https://github.com/user-attachments/assets/cd635a1a-1033-46d3-a171-604d2e77d868)
 
+![clc 2 dc](https://github.com/user-attachments/assets/0fa82035-40de-4dc2-b6de-cf9d623a35b6)
 
-![WhatsApp Image 2026-02-09 at 6 28 30 PM](https://github.com/user-attachments/assets/338dfbd1-b85c-4a56-9c3e-644fdd616f8f)
 
 Compare the manually calculated value and the observed practical value.
 
